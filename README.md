@@ -15,22 +15,19 @@ Halooooo 👋
 # About ME 💬 :
 
 ```js 
-- I'm 16 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
+- I'm 16 years old and from Indonesia. I'm learning HTML, CSS, C++, Python, JS. 
 ```
 
 <img hight="500" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
 
 ### - Learning :
-- ✨ Create Whatsapp Bot
 - ✨ Create Web
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Manga
-- ✨ manhwa
-- ✨ manhua
-- ✨ Badminton
+- ✨ Coding
+- ✨ Photography
+- ✨ Web Developer
+- ✨ Editing Videos
 
 </br>
 </br>
@@ -75,9 +72,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ```
 
 ### Whatsapp Me
-<a href="https://wa.me/6289638023602"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
+<a href="https://wa.me/6281385744255"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
 ### Instagram 
-<a href="https://www.instagram.com/romi_muh05"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png">
+<a href="https://www.instagram.com/jovaneah"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png">
 ### Group Whatsapp
 <a href="https://chat.whatsapp.com/FHX57KmDNvnC7QKdEfUCX2"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
  
