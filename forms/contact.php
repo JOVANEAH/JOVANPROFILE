@@ -19,7 +19,7 @@
   $contact->subject = $_POST['subject'];
 
 
-  $contact->smtp = array(
+  $contact->36.86.63.182 = array(
     'host' => 'example.com',
     'username' => 'example',
     'password' => 'pass',
