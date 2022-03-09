@@ -14,7 +14,7 @@ Halooooo 👋
 - I'm 16 years old and from Indonesia. I'm learning HTML, CSS, C++, Python, JS. 
 ```
 
-<img hight="500" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
+<img hight="500" width="300" alt="GIF" align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 
 ### - Learning :
 - ✨ Create Web
